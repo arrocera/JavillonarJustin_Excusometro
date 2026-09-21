@@ -1,24 +1,43 @@
 
 body {
     margin: 0;
-   background-color: rgb(13, 69, 119);
+   background-color: #292F36;
    font-family: montserrat, sans-serif;
+   color: #F7FFF7;
+}
+
+p{
+    line-height: 1.5;
 }
 
 
-
-h1,h2 {
-    color:mintcream
-
-}
+h1, h2 {
+    color: #292F36;
+    font-size: 2em;
+} 
 
 header{
     padding: 40px;
     text-align: center;
+    background-color: #93748A;
 
 }
 
 main{
     padding: 30px;
+    margin: 0 auto;
 
+}
+
+section{
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #7b886f;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: #93748A;
 }
