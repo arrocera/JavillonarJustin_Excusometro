@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Press+Start+2P&display=swap');
 
 body {
-    margin: 0;
-   background-color: #282226;
+   margin: 0;
+   background-color: #01121C;
    font-family: "Press Start 2P", system-ui;
    color: #F7FFF7;
 }
@@ -23,7 +23,7 @@ h1, h2 {
 header{
     padding: 40px;
     text-align: center;
-    background-color: #282226;
+    background-color: #01121C
 
 }
 
@@ -37,17 +37,17 @@ section{
     margin-bottom: 30px;
     padding: 20px;
     border-radius: 5px;
-    background-color: #4f524d;
+    background-color: #475352;
 }
 
 footer{
     padding: 20px;
     text-align: center;
-    background-color: #282226;
+    background-color: #01121C;
 }
 p, ul, li{ 
     font-family: "Aldrich", sans-serif;
-    font-size: 12
+    font-size: 24px
 }
 
 nav{
